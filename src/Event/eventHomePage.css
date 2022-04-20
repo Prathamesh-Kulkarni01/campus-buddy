@@ -1,0 +1,159 @@
+
+
+/* common styles */
+h2{
+    margin: 0px;
+  }
+  .highlight-text{
+    color: #ff4e60;
+  }
+  .text-light{
+    color:white!important;
+  }
+  .text-align-center{
+    text-align: center;
+  }
+  .font-20{
+    font-size: 20px!important;
+  }
+  .font-18{
+    font-size: 18px!important;
+  }
+  .font-sm{
+    font-size: 14px!important;
+  }
+  .font-md{
+    font-size: 24px!important;
+  }
+  .font-lg{
+    font-size: 30px!important;
+  }
+  .font-xl{
+    font-size: 34px!important;
+  }
+  .primary-text{
+    color: #ff4e60;
+  }
+  .mx-10{
+    margin:10px 0px!important;
+  }
+  /* pagination */
+  .pagination{
+    list-style: none;
+    display: flex;
+    padding: 0px;
+    align-items: center;
+  }
+  .pagination a:focus{
+    outline: none!important;
+  
+  }
+  .pagination .active{
+    color: #ff4e60;
+  }
+  .pagination .disabled{
+    color: darkgray;
+    cursor: initial!important;
+  }
+  .pagination li{
+    cursor: pointer;
+    padding:0px 5px;
+  }
+  .previous, .next{
+    margin: 0px 10px;
+  }
+  /* pages styles */
+  .home-page-container{
+    position: relative;
+  }
+  .skills-body-content{
+    padding-bottom: 10px;
+  }
+  .home-button{
+  color:white;
+  font-size: 20px;
+  font-weight: bold;
+  background: linear-gradient(to right, #45e2e4 50%, #1d1e3a 50%);
+  background-size: 200% 100%;
+  background-position: right bottom;
+  }
+  .home-button:hover{
+  color: #1d1e3a;
+  border-color: #1d1e3a;
+  background-position: left bottom;
+  }
+  .fa-arrow-right{
+  transition: transform 0.5s linear;
+  }
+  .home-button:hover .fa-arrow-right{
+    transform: rotateZ(90deg);
+  }
+  .intro-section{
+    position: absolute;
+    top: 0;
+    height: 100vh;
+    bottom: 0;
+    width: -webkit-fill-available;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+  }
+  
+  .particleWrapper{
+    height:100vh;
+    background: #1d1e3a;
+  }
+  .projectsWrapper{
+    height:100vh;
+    background: pink;
+  }
+  
+  /*projects slider */
+  
+  .single-item{
+    margin: 0px 20px;
+    transition: 0.3s;
+    border: 1px solid #4a45453d;
+      border-radius: 8px;
+  }
+  .project-slider{
+    margin: 30px;
+  }
+  
+  /* menus */
+  .menu-wrapper{
+  display: flex;
+  align-items: center;
+  padding:0px;
+  list-style: none;
+  }
+  .menus-wrapper{
+    position: fixed;
+  z-index: 10;
+  top: 0;
+  right: 0px;
+  background: #1d1e3a;
+  display: flex;
+  align-items: center;
+  padding:0px;
+  justify-content: flex-end;
+  }
+  .menu-item a{
+    color:#fff;
+  cursor:pointer;
+  margin: 10px 20px;
+  text-decoration: none;
+  }
+  .is-current a{
+    color: #ff4e60!important;
+    font-weight: bold;
+    border-bottom: 2px solid white;
+    padding: 0px 0px 13px 0px;
+  }
+  .primary-text{
+    color: #ff4e60;
+  }
+  .cursor{
+    cursor: pointer;
+  }

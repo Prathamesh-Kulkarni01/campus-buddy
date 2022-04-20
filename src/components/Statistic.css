@@ -1,0 +1,58 @@
+.analytic{
+    padding: 1rem 2rem 1rem 2rem;
+    border-radius: 1rem;
+    color: black;
+    margin:20px;
+    flex-wrap:wrap;
+    justify-content: space-evenly;
+    align-items: center;
+    width:420px;
+
+    transition: 0.5s ease-in-out;
+}
+.analytic:hover {
+        background-color: #D4E0FF;
+        color: black;
+     justify-content: space-around;
+        
+        
+    }
+    .analytic .design{
+        display: flex;
+        align-items: center;
+        gap: 1rem;
+    }
+        .analytic .design.logo {
+            background-color: white;
+            border-radius: 1rem;
+            border: 1px solid black;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            padding: 1.5rem;
+            
+        }
+    
+    .analytic.total {
+        display: flex;
+        align-items: center;
+        gap: 1rem;
+        justify-content: space-evenly;
+        margin-top: 20px;
+    }
+    .analytic.total.svg1 {
+            color: green;
+        }
+        .analytic.total  .svg2 {
+            color: red;
+        }
+        .analytic.total .t1 {
+            color: green;
+        }
+        .analytic.total.t2{
+            color: red;
+        }
+        .analytic.total h6{
+            color: grey;
+        }
+    
