@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/events-now/static/css/main.071863a5.chunk.css",
+    "main.js": "/events-now/static/js/main.184a9f3e.chunk.js",
+    "main.js.map": "/events-now/static/js/main.184a9f3e.chunk.js.map",
+    "runtime-main.js": "/events-now/static/js/runtime-main.31a3239d.js",
+    "runtime-main.js.map": "/events-now/static/js/runtime-main.31a3239d.js.map",
+    "static/css/2.3ac2e38a.chunk.css": "/events-now/static/css/2.3ac2e38a.chunk.css",
+    "static/js/2.cafccdd8.chunk.js": "/events-now/static/js/2.cafccdd8.chunk.js",
+    "static/js/2.cafccdd8.chunk.js.map": "/events-now/static/js/2.cafccdd8.chunk.js.map",
+    "static/js/3.9edf4ee7.chunk.js": "/events-now/static/js/3.9edf4ee7.chunk.js",
+    "static/js/3.9edf4ee7.chunk.js.map": "/events-now/static/js/3.9edf4ee7.chunk.js.map",
+    "index.html": "/events-now/index.html",
+    "static/css/2.3ac2e38a.chunk.css.map": "/events-now/static/css/2.3ac2e38a.chunk.css.map",
+    "static/css/main.071863a5.chunk.css.map": "/events-now/static/css/main.071863a5.chunk.css.map",
+    "static/js/2.cafccdd8.chunk.js.LICENSE.txt": "/events-now/static/js/2.cafccdd8.chunk.js.LICENSE.txt",
+    "static/media/apple.e43de820.png": "/events-now/static/media/apple.e43de820.png",
+    "static/media/avatar.0bac38a8.jpg": "/events-now/static/media/avatar.0bac38a8.jpg",
+    "static/media/girl1.3f081508.jpg": "/events-now/static/media/girl1.3f081508.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.31a3239d.js",
+    "static/css/2.3ac2e38a.chunk.css",
+    "static/js/2.cafccdd8.chunk.js",
+    "static/css/main.071863a5.chunk.css",
+    "static/js/main.184a9f3e.chunk.js"
+  ]
+}
