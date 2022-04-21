@@ -141,7 +141,7 @@ const [Online, setOnline] = useState(false)
          
             <Routes>
               <Route
-                path="/home"
+                path="/"
                 element={
                   <ProtectedRoute>
                     <Home1 />
